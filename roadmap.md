@@ -1,0 +1,6 @@
+- [x] Shared PaketDepo shell and design system
+- [x] Storefront home
+- [x] Product catalog
+- [x] Product detail
+- [x] Bulk cart and totals
+- [x] Verify desktop and mobile flows
